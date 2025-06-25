@@ -4,6 +4,12 @@
   I’m 1st year student pursuing Bachelor in Electrical Engineer 🎓 from Federal University of Campina Grande 🏛️ . Always exploring new technologies and trying to resolve complex problems ⚡️ . I'm currently learning and improving my programming skills with Python, but always thinking about new languages 🧑‍💻 .
 </div>
 
+</div>
+## 📜 Certificados
+
+- [SoloLearn - Introduction to C++](https://www.sololearn.com/certificates/CC-8IMVMWNU)
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Warley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Warley-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" >
