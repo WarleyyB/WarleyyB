@@ -12,6 +12,17 @@
 - [SoloLearn - Introduction to C++](https://www.sololearn.com/certificates/CC-8IMVMWNU)
 </div>
 
+##
+
+</div>
+📘 Reference Materials:
+
+- Book: *Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming* – Eric Matthes
+- Book: *C++: How to Program* - H. M. Deitel
+</div>
+
+##
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Warley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Warley-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" >
