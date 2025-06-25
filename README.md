@@ -4,8 +4,10 @@
   I’m 1st year student pursuing Bachelor in Electrical Engineer 🎓 from Federal University of Campina Grande 🏛️ . Always exploring new technologies and trying to resolve complex problems ⚡️ . I'm currently learning and improving my programming skills with Python, but always thinking about new languages 🧑‍💻 .
 </div>
 
+##
+
 </div>
-## 📜 Certificados
+📜 Certificates:
 
 - [SoloLearn - Introduction to C++](https://www.sololearn.com/certificates/CC-8IMVMWNU)
 </div>
