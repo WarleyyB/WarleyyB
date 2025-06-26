@@ -9,6 +9,7 @@
 </div>
 📜 Certificates:
 
+- [FreeCodeCamp - Scientific Computing with Python](https://www.freecodecamp.org/certification/Warleyy_B/scientific-computing-with-python-v7)
 - [SoloLearn - Introduction to C++](https://www.sololearn.com/certificates/CC-8IMVMWNU)
 </div>
 
