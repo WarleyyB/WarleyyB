@@ -29,7 +29,7 @@
 ##
 
 </div>
-📘 Reference Materials:
+📘 Learning Resources:
 
 - Book: *Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming* – Eric Matthes
 - Book: *C++: How to Program* - H. M. Deitel
