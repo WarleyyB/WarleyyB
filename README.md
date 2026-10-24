@@ -13,7 +13,7 @@
 
 - **Provisionamento de Conexões Por Multicaminho em uma Rede Óptica Elástica Multibanda** — Co-author of a scientific paper
   on a simulator developed primarily in Python.
-  - Translated Title: *Provisioning of Multipath Connections in a Multiband Elastic Optical Nework*
+  - Translated Title: *Provisioning of Multipath Connections in a Multiband Elastic Optical Network*
   - Conference: XLIV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais
   - Year: 2026
   - [Read the Paper](https://doi.org/10.14209/sbrt.2026.1571292836) <!--| [Source Code](REPOSITORY_URL)-->
