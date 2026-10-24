@@ -7,7 +7,7 @@
 ##
 
 <div>
-📃Research & Publications:
+📃 Research & Publications:
 
 - **Provisionamento de Conexões Por Multicaminho em uma Rede Óptica Elástica Multibanda** — Co-author of a scientific paper
   on a simulator developed primarily in Python.
@@ -35,6 +35,7 @@
 - Book: *C++: How to Program* - H. M. Deitel
 </div>
 
+<!--
 ##
 
 <div style="display: inline_block"><br>
@@ -49,6 +50,27 @@
   <img align="center" alt="Warley-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" >
   <!--<img align="center" alt="Warley-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" >-->
 </div>
+
+##
+
+<div>
+🧑‍💻 Skills & Tools: <br>
+  
+  - Programming: <br>
+  <img align="center" alt="Warley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Warley-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" >
+  <img align="center" alt="Warley-MatLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" >
+
+  - Scientific Computing & Data Analysis: <br>
+  <img align="center" alt="Warley-NumPy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Warley-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Warley-Matplotlib" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg">
+
+  - Development Tools: <br>
+  <img align="center" alt="Warley-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" >
+  <img align="center" alt="Warley-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" >
+  <img align="center" alt="Warley-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" >
+<div>
 
 ##
 
