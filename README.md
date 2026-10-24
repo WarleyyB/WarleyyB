@@ -1,4 +1,4 @@
-## A programmer in making, information technology and physics lover 🧑‍💻
+## Electrical Engineering Student | Programming, Technology & Physics 🧑‍💻
 
 <div style="text-align: center;">
   I'm a first-year student pursuing a Bachelor's degree in Electrical Engineering 🎓 from Federal University of Campina Grande 🏛️ . Always exploring new technologies and solving complex problems ⚡️ . I'm currently learning and improving my programming skills with Python, but always thinking about new languages 🧑‍💻 .
@@ -30,6 +30,11 @@
   <img align="center" alt="Warley-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
   <img align="center" alt="Warley-Matplotlib" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg">
   <img align="center" alt="Warley-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" >
+  <img align="center" alt="Warley-MatLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" >
+  <img align="center" alt="Warley-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" >
+  <img align="center" alt="Warley-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" >
+  <img align="center" alt="Warley-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" >
+  <!--<img align="center" alt="Warley-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" >-->
 </div>
 
 ##
