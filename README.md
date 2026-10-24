@@ -1,7 +1,7 @@
 ## Electrical Engineering Student | Programming, Technology & Physics 🧑‍💻
 
 <div style="text-align: center;">
-  I'm an Electrical Engineering undergraduate at the Federal University of Campina Grande (UFCG), interested in programming, quantum computing, photonics and physics.
+  I'm an Electrical Engineering undergraduate at the Federal University of Campina Grande (UFCG), interested in programming, photonics, quantum computing and physics.
   
   I'm currently developing my programming skills with MatLab and exploring how computational tools can be applied to engineering and scientific problems.
 </div>
