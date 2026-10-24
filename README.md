@@ -1,7 +1,9 @@
 ## Electrical Engineering Student | Programming, Technology & Physics 🧑‍💻
 
 <div style="text-align: center;">
-  I'm a first-year student pursuing a Bachelor's degree in Electrical Engineering 🎓 from Federal University of Campina Grande 🏛️ . Always exploring new technologies and solving complex problems ⚡️ . I'm currently learning and improving my programming skills with Python, but always thinking about new languages 🧑‍💻 .
+  I'm an Electrical Engineering undergraduate at the Federal University of Campina Grande (UFCG), interested in programming, quantum computing, photonics and physics.
+  
+  I'm currently developing my programming skills with MatLab and exploring how computational tools can be applied to engineering and scientific problems.
 </div>
 
 ##
