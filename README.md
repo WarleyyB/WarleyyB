@@ -16,7 +16,7 @@
   - Translated Title: *Provisioning of Multipath Connections in a Multiband Elastic Optical Nework*
   - Conference: XLIV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais
   - Year: 2026
-  - [Read the Paper](PAPER_URL) | [Source Code](REPOSITORY_URL)
+  - [Read the Paper](https://doi.org/10.14209/sbrt.2026.1571292836) | [Source Code](REPOSITORY_URL)
 <div>
 
 ##
